@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<files>
+		<!--可以没有-->
+		<!--<file filename="Demo.Web.resx" type="GUI" culture="en-US" />-->
+		<!--<file filename="Demo.Web.ja-JP.resx" type="GUI" culture="ja-JP" />-->
+		<!--<file filename="Demo.Web.de-DE.resx" type="GUI" culture="de-DE" />-->
+		<!--<file filename="Demo.Web.en-GB.resx" type="GUI" culture="en-GB" />-->
+	</files>
+</configuration>
